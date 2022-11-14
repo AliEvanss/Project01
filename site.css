@@ -1,0 +1,54 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Gelasio|Open+Sans&display=swap');)
+
+
+body {
+    margin: 0 auto;
+    max-width: 960px;
+    background: #78AD8C;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    background: #FFA297 ;
+    min-height: 100vh;
+}
+
+.wolfpic {
+    max-width: 250px;
+    max-height: auto;
+
+}
+
+header {
+    z-index:1 ;
+    position: fixed; 
+    left: 0;
+    right: 0;
+    top: 0;
+    background: #FF766C;
+    
+}
+
+.logos {
+    max-width: 30px;
+    max-height: auto;
+}
+ 
+.name {
+    float: left;
+}
+
+.links {
+    float: right;
+}
+
+footer {
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+}
